@@ -1,6 +1,7 @@
 # Rueda-fortuna
 Rrepositorio proyecto
 Pseudocódigo
+
 INICIO
 
 // Estado de la rueda de la fortuna
